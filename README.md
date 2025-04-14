@@ -38,6 +38,7 @@ A multi-page static website built with:
 ├── images/       # Product images
 ├── *.html        # All HTML pages
 └── main.js       # Core JavaScript
+```
 🚀 Quick Start
 Clone repo:
 
